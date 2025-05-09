@@ -1,0 +1,6 @@
+F:\ProyectosSQL\BDD1\bin\Debug\BDD1.dacpac
+F:\ProyectosSQL\BDD1\bin\Debug\BDD1.dll
+F:\ProyectosSQL\BDD1\bin\Debug\BDD1.pdb
+F:\ProyectosSQL\BDD1\obj\Debug\BDD1.sqlproj.AssemblyReference.cache
+F:\ProyectosSQL\BDD1\obj\Debug\BDD1.dll
+F:\ProyectosSQL\BDD1\obj\Debug\BDD1.pdb
